@@ -176,9 +176,4 @@ As ferramentas usadas no desenvolvimento do projeto.
 
 ---
 
-## 📝 Licença
-
-Este projeto está sob licença [MIT](./LICENSE).
-
-<p>Desenvolvido por Bruno Schneider</p>
 
