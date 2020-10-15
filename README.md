@@ -1,6 +1,12 @@
-<h1 align="center" >
-  <img alt="happy" title="happy" src="./assets/banner.png" />
-</h1>
+<div align="center">
+    <img alt="Happy" src="https://i.imgur.com/qZw0LX5.png" width="250px" />
+</div>
+
+<br>
+
+<div align="center">
+  <img alt="Happy" src="https://i.imgur.com/fzfOWUZ.png" width="80%">
+</div>
 
 <p align="center">Leve felicidade para o mundo, visite orfanatos e mude o dia de muitas crianças. NLW#3</p>
 
